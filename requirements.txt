@@ -1,0 +1,17 @@
+transformers
+datasets
+lighteval
+torch
+bitsandbytes
+accelerate
+setuptools
+jupyter # if needed or just ipykernel for vscode
+tiktoken
+python-dotenv
+pandas
+matplotlib
+deepeval # to run the deepeval-test 
+# human-eval @ git+https://github.com/kingabzpro/human-eval problem
+human-eval @ git+https://github.com/sdelahaies/human-eval
+polars
+great-tables
