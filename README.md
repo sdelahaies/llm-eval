@@ -70,8 +70,4 @@ Contributions are welcome! If you find issues or have ideas for improvement, fee
 
 ## 💡 Why This Repository?  
 
-Evaluating LLMs is a critical step in understanding their strengths, limitations, and potential applications. By collecting and organizing resources from trusted tutorials and guides, this repository aims to provide a straightforward starting point for me, and other researchers, developers, and enthusiasts venturing into LLM evaluation.  
-
----
-
-Enjoy exploring, experimenting, and learning! If you found this useful, don't forget to ⭐ the repository!  
+Evaluating LLMs is a critical step in understanding their strengths, limitations, and potential applications. By collecting and organizing resources from trusted tutorials and guides, this repository aims to provide a straightforward starting point for me, and other researchers, developers, and enthusiasts venturing into LLM evaluation.
