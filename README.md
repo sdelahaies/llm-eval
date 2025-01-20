@@ -2,7 +2,7 @@
 
 ![llm-eval](illustration.png)
 
-This repository contains a short curated list of notebooks on LLM evaluation to help get started with **HumanEval**, **DeepEval**, and **LightEval**. These resources consolidate practical examples and tutorials from multiple sources, providing a foundation for assessing large language models' (LLMs) performance across tasks like code generation, reasoning, and benchmarking. The repository also provides a consistent `requirements.txt` files that fixes some install issues met in the sources.
+This repository contains a short curated list of notebooks on LLM evaluation to help get started with **HumanEval**, **DeepEval**, and **LightEval**. These resources reproduce practical examples and tutorials from multiple sources, providing a foundation for assessing large language models' (LLMs) performance across tasks like code generation, reasoning, and benchmarking. The repository also provides a consistent `requirements.txt` file that fixes some install issues met in the sources.
 
 > **Sources and Acknowledgments**:  
 > - [HumanEval Benchmark for Evaluating LLM Code Generation Capabilities](https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities)  
@@ -18,8 +18,7 @@ This repository contains a short curated list of notebooks on LLM evaluation to 
 |--------------------------------------|-----------------------------------------------------------------------------------------------|  
 | `test-HumanEval.ipynb`               | Tutorial for using the **HumanEval** benchmark to evaluate LLMs' code generation capabilities, including the pass@k metric. |  
 | `deepeval-geval.ipynb`               | Demonstrates the use of **DeepEval**'s G-Eval metric for evaluating LLMs using chain-of-thought (CoT) reasoning. |  
-| `deepeval-mmlu.ipynb`                | Benchmarks LLMs using the **MMLU** dataset, which covers 57 diverse subjects via multiple-choice questions. |  
-| `deepeval-test.ipynb`                | Pytest-like relevance tests for evaluating LLM outputs using **DeepEval**.                    |  
+| `deepeval-mmlu.ipynb`                | Benchmarks LLMs using the **MMLU** dataset, which covers 57 diverse subjects via multiple-choice questions. |                   |  
 | `lighteval-custom-huggingface.ipynb` | A walkthrough of **LightEval** for testing Hugging Face models with custom configurations.    |  
 | `lighteval-smol-course.ipynb`        | Practical exercises from Hugging Face's **Smol Course** for exploring lightweight evaluation methods. |  
 | `requirements.txt`                   | Dependency file to ensure a smooth setup by resolving compatibility issues encountered in other repositories. |  
