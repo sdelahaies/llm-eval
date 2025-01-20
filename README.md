@@ -1,5 +1,7 @@
 # 📊 LLM Evaluation: A Curated Starter Kit  
 
+![llm-eval](illustration.png)
+
 This repository contains a short curated list of notebooks on LLM evaluation to help get started with **HumanEval**, **DeepEval**, and **LightEval**. These resources consolidate practical examples and tutorials from multiple sources, providing a foundation for assessing large language models' (LLMs) performance across tasks like code generation, reasoning, and benchmarking. The repository also provides a consistent `requirements.txt` files that fixes some install issues met in the sources.
 
 > **Sources and Acknowledgments**:  
