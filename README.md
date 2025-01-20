@@ -32,13 +32,21 @@ This repository contains a short curated list of notebooks on LLM evaluation to 
    cd llm-eval  
    ```  
 
-2. **Set up the environment**:  
-   Install the required dependencies using the provided `requirements.txt` file:  
+1. **Create a virtual environment**:  
    ```bash  
-   pip install -r requirements.txt  
+   uv venv  
+   source .venv/bin/activate  
    ```  
 
-3. **Explore the Notebooks**:  
+
+3. **Set up the environment**:  
+   Install the required dependencies using the provided `requirements.txt` file:  
+   ```bash  
+   uv pip install -r requirements.txt  
+   ``` 
+   check out packages' version in `requirements.txt-freeze` in case of trouble.
+
+4. **Explore the Notebooks**:  
    Open the notebooks in your favorite Jupyter environment (e.g., Jupyter Notebook, JupyterLab, or VS Code). Each notebook contains examples and explanations to guide you through evaluating LLMs using HumanEval, DeepEval, and LightEval.
 
 ---
